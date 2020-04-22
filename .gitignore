@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+venvpy36
+.vscode
+*.xml
+xml/*
+output/*
+input/*
+__pycache__
+*.zip
+
